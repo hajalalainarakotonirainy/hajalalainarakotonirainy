@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hajalalaina-rakotonirainy" target="_blank">
+  <a href="https://www.linkedin.com/in/hajalalainarakotonirainy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/HajalalainaRakotonirainy" target="_blank">
@@ -107,7 +107,7 @@ I'm a **Full-Stack MERN Developer** specializing in building scalable, productio
 I'm open to **freelance missions**, **full-time roles**, and **remote opportunities**.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hajalalaina-rakotonirainy">
+  <a href="https://www.linkedin.com/in/hajalalainarakotonirainy">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
