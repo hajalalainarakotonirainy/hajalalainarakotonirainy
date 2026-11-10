@@ -1,61 +1,113 @@
-# Hajalalaina Rakotonirainy
+<h1 align="center">Hi 👋, I'm Hajalalaina Rakotonirainy</h1>
+<h3 align="center">Full-Stack JavaScript Developer | MERN Stack · React.js · Next.js · TypeScript · Node.js</h3>
 
-**Node.js Backend Developer | n8n & AI Automation, API Integrations**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HajalalainaRakotonirainy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
-I build Node.js and TypeScript backends and n8n automations: REST APIs, third-party integrations and workflows that remove manual work, from database design to deployment.
+<p align="center">
+  <a href="https://www.linkedin.com/in/hajalalainarakotonirainy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/HajalalainaRakotonirainy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-I'm a freelance backend developer based in Antananarivo, Madagascar (UTC+3). I work in English and French, and I'm available 30+ hours per week.
+---
 
-**Hire me:** [Upwork profile](https://www.upwork.com/freelancers/~0140c8463737a258ed) · [LinkedIn](https://www.linkedin.com/in/hajalalainarakotonirainy)
+## 👨‍💻 About Me
 
-## What I build
+I'm a **Full-Stack MERN Developer** specializing in building scalable, production-ready web applications. I deliver complete end-to-end solutions — responsive frontends paired with robust backend architectures and RESTful APIs.
 
-- **REST APIs and backend services** with Node.js, TypeScript and Express, on PostgreSQL.
-- **n8n workflows** for lead capture and qualification, CRM sync, invoices, reminders, reports and scheduled jobs, with error handling and alerts.
-- **API integrations** with the tools teams already use: CRMs such as HubSpot or Pipedrive, Google Sheets, Airtable, Slack, Gmail, Stripe, and any REST or webhook-based API.
-- **AI steps inside workflows** with OpenAI or other LLMs, to classify requests, extract data and draft replies.
-- **Custom code when n8n has no ready-made node**: HTTP requests, Code nodes or a small Node.js service.
+- 🔭 I'm currently working on **Full-Stack Web projects**
+- 🌱 I'm always learning new technologies and best practices
+- 💬 Ask me about **React.js, Next.js, Node.js**
+- 🌍 Open to **freelance missions · full-time roles · remote & hybrid opportunities**
+- 📫 Reach me on **LinkedIn**
+- ⚡ Fun fact: My background in **strategy games** shaped how I approach development — plan carefully, adapt, and always keep the end goal in sight
 
-## Experience
+---
 
-- **Web developer at ARTEC**, Madagascar's communications regulator: REST APIs with Node.js and Express, spatial data in PostgreSQL and PostGIS, and map layers published with GeoServer for radio network mapping.
-- **Data engineer at IDEA**: an end-to-end data pipeline in Python with Mage AI, MinIO, Trino, PostgreSQL and Metabase, containerized with Docker.
-- **Master's degree in Computer Science** from ENI Fianarantsoa (École Nationale d'Informatique).
+## 🛠️ Tech Stack
 
-## Tech stack
+**Frontend**
 
-- **Backend:** Node.js, TypeScript, JavaScript, Express, REST APIs, OpenAPI, Zod
-- **Automation and AI:** n8n, OpenAI API, webhooks
-- **Data:** PostgreSQL, PostGIS, Supabase, Redis
-- **DevOps:** Docker, GitHub Actions, Nginx, Cloudflare, Linux
-- **Also:** Python and Mage AI for data pipelines, GeoServer for maps
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## How I work
+**Backend**
 
-- A short written plan before coding, so scope and price are clear.
-- Daily progress updates and documented code.
-- I raise blockers as soon as I see them.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## FAQ
+**Databases**
 
-### Are you available for freelance work?
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-Yes. I'm available 30+ hours per week for fixed-price or hourly projects on Upwork. I'm also open to remote full-time roles.
+**Data Engineering**
 
-### Do you write code or only use n8n?
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![MageAI](https://img.shields.io/badge/MageAI-7C3AED?style=for-the-badge&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 
-Both. I use n8n when it fits, and I write Node.js code when a workflow needs custom logic, an API without a node, or better performance.
+**GIS & Geospatial**
 
-### Can you work on an existing Node.js backend?
+![GeoServer](https://img.shields.io/badge/GeoServer-4285F4?style=for-the-badge&logoColor=white)
+![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Yes. I add endpoints, integrations, background jobs and tests to existing Express and TypeScript projects, and I document what I change.
+**Tools & DevOps**
 
-### n8n Cloud or self-hosted?
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-Both. I build on your n8n Cloud account or set up a self-hosted n8n with Docker on your server.
+---
 
-## Contact
+## 📊 GitHub Stats
 
-Send me your project and the tools you use on [Upwork](https://www.upwork.com/freelancers/~0140c8463737a258ed), or connect on [LinkedIn](https://www.linkedin.com/in/hajalalainarakotonirainy). I reply with a short written plan, a timeline and a fixed price or an hourly estimate.
+<p align="center">
+  <img src="https://github-readme-stats-iota-liard-27.vercel.app/api?username=HajalalainaRakotonirainy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" height="180px"/>
+  <img src="https://github-readme-stats-iota-liard-27.vercel.app/api/top-langs/?username=HajalalainaRakotonirainy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" height="180px"/>
+</p>
 
-<sub>Updated November 2026</sub>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HajalalainaRakotonirainy&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🗺️ GIS Web Application — ARTEC
+> Full-stack Geographic Information System for radio network mapping
+- **Stack:** JavaScript, Node.js, Express.js, PostgreSQL, PostGIS, GeoServer, OpenLayers
+- **Live:** [artec.mg/sig](https://www.artec.mg/sig/)
+
+### ⚙️ Automated Data Pipeline
+> End-to-end ETL pipeline from raw files to actionable insights
+- **Stack:** Python, MageAI, DuckDB, dbt, MinIO S3
+
+---
+
+## 📫 Let's Connect
+
+I'm open to **freelance missions**, **full-time roles**, and **remote opportunities**.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hajalalainarakotonirainy">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
