@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hajalalaina Rakotonirainy</h1>
-<h3 align="center">Full-Stack JavaScript Developer | MERN Stack · React.js · Next.js · TypeScript · Node.js</h3>
+<h3 align="center">Node.js Backend Developer | n8n & AI Automation, API Integrations</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HajalalainaRakotonirainy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -18,11 +18,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack MERN Developer** specializing in building scalable, production-ready web applications. I deliver complete end-to-end solutions — responsive frontends paired with robust backend architectures and RESTful APIs.
+I build Node.js and TypeScript backends and n8n automations: REST APIs, third-party integrations and workflows that remove manual work, from database design to deployment.
 
-- 🔭 I'm currently working on **Full-Stack Web projects**
+- 🔭 I'm currently working on **Node.js backends and n8n automations**
 - 🌱 I'm always learning new technologies and best practices
-- 💬 Ask me about **React.js, Next.js, Node.js**
+- 💬 Ask me about **Node.js, TypeScript, n8n**
 - 🌍 Open to **freelance missions · full-time roles · remote & hybrid opportunities**
 - 📫 Reach me on **LinkedIn**
 - ⚡ Fun fact: My background in **strategy games** shaped how I approach development — plan carefully, adapt, and always keep the end goal in sight
@@ -31,25 +31,25 @@ I'm a **Full-Stack MERN Developer** specializing in building scalable, productio
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+Node.js, TypeScript, JavaScript, Express, RESTful APIs, n8n, AI automation, PostgreSQL, PostGIS, Supabase, Redis, Python, Docker, Linux, Git.
 
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Automation & AI**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![AI Automation](https://img.shields.io/badge/AI_Automation-7C3AED?style=for-the-badge&logoColor=white)
 
 **Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Data Engineering**
@@ -91,12 +91,11 @@ I'm a **Full-Stack MERN Developer** specializing in building scalable, productio
 
 ## 🚀 Featured Projects
 
-### 🗺️ GIS Web Application — ARTEC
-> Full-stack Geographic Information System for radio network mapping
+### 🗺️ GIS Platform — ARTEC
+> REST APIs and GIS platform for radio network mapping
 - **Stack:** JavaScript, Node.js, Express.js, PostgreSQL, PostGIS, GeoServer, OpenLayers
-- **Live:** [artec.mg/sig](https://www.artec.mg/sig/)
 
-### ⚙️ Automated Data Pipeline
+### ⚙️ Automated Data Pipeline — IDEA
 > End-to-end ETL pipeline from raw files to actionable insights
 - **Stack:** Python, MageAI, DuckDB, dbt, MinIO S3
 
@@ -109,5 +108,8 @@ I'm open to **freelance missions**, **full-time roles**, and **remote opportunit
 <p align="center">
   <a href="https://www.linkedin.com/in/hajalalainarakotonirainy">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~0140c8463737a258ed">
+    <img src="https://img.shields.io/badge/Hire_me_on_Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
 </p>
