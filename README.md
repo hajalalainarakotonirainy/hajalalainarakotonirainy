@@ -31,8 +31,6 @@ I build Node.js and TypeScript backends and n8n automations: REST APIs, third-pa
 
 ## 🛠️ Tech Stack
 
-Node.js, TypeScript, JavaScript, Express, RESTful APIs, n8n, AI automation, PostgreSQL, PostGIS, Supabase, Redis, Python, Docker, Linux, Git.
-
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -108,8 +106,5 @@ I'm open to **freelance missions**, **full-time roles**, and **remote opportunit
 <p align="center">
   <a href="https://www.linkedin.com/in/hajalalainarakotonirainy">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/~0140c8463737a258ed">
-    <img src="https://img.shields.io/badge/Hire_me_on_Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
 </p>
