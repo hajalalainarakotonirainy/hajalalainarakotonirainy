@@ -78,7 +78,10 @@ I build Node.js and TypeScript backends and n8n automations: REST APIs, third-pa
 
 <p align="center">
   <img src="https://github-readme-stats-iota-liard-27.vercel.app/api?username=HajalalainaRakotonirainy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" height="180px"/>
-  <img src="https://github-readme-stats-iota-liard-27.vercel.app/api/top-langs/?username=HajalalainaRakotonirainy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-iota-liard-27.vercel.app/api/top-langs/?username=HajalalainaRakotonirainy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
